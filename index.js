@@ -25,6 +25,6 @@ function sayHiToGrandma(string){
   }
 
   else if (string === string.toUpperCase){
-    returns "YES INDEED!" 
+    returns "YES INDEED!"
   }
 }
