@@ -20,7 +20,7 @@ function sayHiToGrandma(string){
     return "I love you, too."
   }
 
-  else if (string == string.toLowerCase) {
+  else if (string == whisper(string)) {
     return "I can\'t hear you!"
   }
 
